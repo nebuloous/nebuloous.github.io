@@ -1,15 +1,15 @@
 /*FONTS*/
 @font-face { /*GothicPixel*/
     font-family: GothicPixel;
-    src=url (/fonts/OldEnglishGothicPixelRegular-ow2Bo.ttf);
+    src: url(/fonts/OldEnglishGothicPixelRegular-ow2Bo.ttf);
    }
 @font-face { /*PixelScript*/
     font-family: PixelScript;
-    src=url (/fonts/PixelScriptRegular-4B83W.ttf);
+    src: url(/fonts/PixelScriptRegular-4B83W.ttf);
    }
 @font-face { /*Mintsoda*/
     font-family: Mintsoda;
-    src=url (/fonts/MintsodaLimeGreen16X16Regular-EanDl.ttf);
+    src: url(/fonts/MintsodaLimeGreen16X16Regular-EanDl.ttf);
    }
 
 body {

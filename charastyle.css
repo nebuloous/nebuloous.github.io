@@ -1,38 +1,38 @@
 @font-face { /*SummerPixel*/
     font-family: SummerPixel;
-    src=url (/fonts/SummerPixel22Regular-jE0W7.ttf);
+    src: url(/fonts/SummerPixel22Regular-jE0W7.ttf);
    }
 @font-face {  /*RDJHandPixel*/
     font-family: RDJHandPixel;
-    src=url (/fonts/RdjHandPixel-5w3L.otf);
+    src: url(/fonts/RdjHandPixel-5w3L.otf);
    }
 @font-face { /*ZenMastersItalic*/
     font-family: ZenMastersItalic;
-    src=url (/fonts/ZenMastersItalic-jElEG.ttf);
+    src: url(/fonts/ZenMastersItalic-jElEG.ttf);
    }
 @font-face { /*HandPixies*/
     font-family: HandPixies;
-    src=url (/fonts/Handpixies-Gzdm.ttf);
+    src: url(/fonts/Handpixies-Gzdm.ttf);
    }
 @font-face { /*PixelGaming*/
     font-family: PixelGaming;
-    src=url (/fonts/PixelGamingRegular-d9w0g.ttf);
+    src: url(/fonts/PixelGamingRegular-d9w0g.ttf);
    }
 @font-face { /*PixeloidSans*/
     font-family: PixeloidSans;
-    src=url (/fonts/PixeloidSans-mLxMm.ttf);
+    src: url(/fonts/PixeloidSans-mLxMm.ttf);
    }
 @font-face { /*ScarletDevilPixelScript*/
     font-family: ScarletDevilPixelScript;
-    src=url (/fonts/ScarletDevilPixelScript-0Vjr.ttf);
+    src: url(/fonts/ScarletDevilPixelScript-0Vjr.ttf);
    }
 @font-face { /*PixelSleigh*/
     font-family: PixelSleigh;
-    src=url (/fonts/PixelSleighRegular-r0aA.ttf);
+    src: url(/fonts/PixelSleighRegular-r0aA.ttf);
    }
 @font-face { /*PixGamer*/
     font-family: PixGamer;
-    src=url (/fonts/PixgamerRegular-OVD6A.ttf);
+    src: url(/fonts/PixgamerRegular-OVD6A.ttf);
    }
 
 /*CHARACTER NOTES*/
