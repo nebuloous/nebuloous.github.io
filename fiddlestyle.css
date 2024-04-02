@@ -11,42 +11,6 @@
     font-family: Mintsoda;
     src=url (/fonts/MintsodaLimeGreen16X16Regular-EanDl.ttf);
    }
-@font-face { /*SummerPixel*/
-    font-family: SummerPixel;
-    src=url (/fonts/SummerPixel22Regular-jE0W7.ttf);
-   }
-@font-face {  /*RDJHandPixel*/
-    font-family: RDJHandPixel;
-    src=url (/fonts/RdjHandPixel-5w3L.otf);
-   }
-@font-face { /*ZenMastersItalic*/
-    font-family: ZenMastersItalic;
-    src=url (/fonts/ZenMastersItalic-jElEG.ttf);
-   }
-@font-face { /*HandPixies*/
-    font-family: HandPixies;
-    src=url (/fonts/Handpixies-Gzdm.ttf);
-   }
-@font-face { /*PixelGaming*/
-    font-family: PixelGaming;
-    src=url (/fonts/PixelGamingRegular-d9w0g.ttf);
-   }
-@font-face { /*PixeloidSans*/
-    font-family: PixeloidSans;
-    src=url (/fonts/PixeloidSans-mLxMm.ttf);
-   }
-@font-face { /*ScarletDevilPixelScript*/
-    font-family: ScarletDevilPixelScript;
-    src=url (/fonts/ScarletDevilPixelScript-0Vjr.ttf);
-   }
-@font-face { /*PixelSleigh*/
-    font-family: PixelSleigh;
-    src=url (/fonts/PixelSleighRegular-r0aA.ttf);
-   }
-@font-face { /*PixGamer*/
-    font-family: PixGamer;
-    src=url (/fonts/PixgamerRegular-OVD6A.ttf);
-   }
 
 body {
     font-family: Mintsoda;
@@ -77,49 +41,6 @@ img {
     padding: 0px; }
 div { 
     position: absolute; }
-
-/*CHARACTER NOTES*/
-.notes-aaron {
-    font-family: Mintsoda;
-    font-size: 11px;
-    text-align: center;
- }
-.notes-mar {
-    font-family: SummerPixel;
-    font-size: 11px;
- }
-.notes-eve {
-    font-family: PixelSleigh;
-    font-size: 6px;
- }
-.notes-rhy {
-    font-family: RDJHandPixel;
-    font-size: 11px;
- }
-.notes-sef {
-    font-family: PixeloidSans;
-    font-size: 9px;
- }
-.notes-ipi {
-    font-family: PixelGaming;
-    font-size: 11px;
- }
-.notes-kotu {
-    font-family: ScarletDevilPixelScript;
-    font-size: 10px;
- }
-.notes-tsu {
-    font-family: PixGamer;
-    font-size: 11px;
- }
-.notes-oak {
-    font-family: ZenMastersItalic;
-    font-size: 10px;
- }
-.notes-win {
-    font-family: HandPixies;
-    font-size: 11px;
- }
 
 .section {
     display: none;
