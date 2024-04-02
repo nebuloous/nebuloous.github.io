@@ -180,19 +180,11 @@ opacity: 1 !important;
     margin-left: auto; margin-right: auto;
     }
 
-#page_anomaly_a_ek1 {
+.page {
 	top: 0px;
 	left: 0px;
 	width: 768px;
 	height: 560px;
-}
-
-#_bg__anomaly_a_ek2 {
-	top: 0px;
-	left: 0px;
-	width: 768px;
-	height: 560px;
-	background: rgba(255,255,255,1);
 }
 
 .desk {
@@ -208,49 +200,27 @@ opacity: 1 !important;
 	height: 454px;
     }
 
-#r_page {
-	top: 55px;
-	left: 394px;
-	width: 310px;
-	height: 388px;
+.Lpage {
+	top: 55px; left: 64px;
+	width: 310px; height: 388px;
+}
+.Rpage {
+	top: 55px; left: 394px;
+	width: 310px; height: 388px;
 }
 
-#_bg__r_page_ek1 {
-	top: 0px;
-	left: 0px;
-	width: 310px;
-	height: 388px;
-	background:#;
-}
-
-.pg_nmbr {
-	top: 351px;
-	left: 274px;
+.pgnmbr {
+	top: 351px;	left: 274px;
 	width: 36px; height: 29px;
 	overflow: hidden;
-	font-family: Old English Gothic Pixel;
+	font-family: GothicPixel;
 	font-size: 20px;
-	text-align: left;
+	text-align: right;
 	letter-spacing: 1px;
 	color:#000000;
     }
 
-#frame_7 {
-	top: 41px;
-	left: 12px;
-	width: 281px;
-	height: 333px;
-}
-
-#_bg__frame_7_ek1 {
-	top: 0px;
-	left: 0px;
-	width: 281px;
-	height: 333px;
-	background:#;
-}
-
-#comment {
+.comment {
 	top: 248px;
 	left: 63px;
 	width: 219px;
@@ -266,128 +236,90 @@ opacity: 1 !important;
 	letter-spacing: 0.55px;
 }
 
-#field_notes {
+.field_notes {
 	top: 16px;
 	left: 12px;
 	width: 177px;
 	height: 30px;
 	overflow: hidden;
-	font-family: Old English Gothic Pixel;
+	font-family: GothicPixel;
 	font-size: 20px;
 	text-align: left;
 	letter-spacing: 1px;
 	color:#000000;
 }
 
-#r_content {
+.Rcontent {
 	top: 41px;
 	left: 11px;
 	width: 282px;
 	height: 228px;
 }
 
-#_bg__r___content_ek1 {
-	top: 0px;
-	left: 0px;
-	width: 282px;
-	height: 228px;
-	background:#;
-}
-
-#stats {
+.stats {
 	top: 5px;
 	left: 6.5px;
 	width: 274px;
 	height: 68px;
 }
 
-#_bg__stats_ek1 {
-	top: 0px;
-	left: 0px;
-	width: 274px;
-	height: 68px;
-	background:#;
-}
-
-#resistances {
+.resistances_box {
 	top: 0px;
 	left: 0px;
 	width: 140px;
 	height: 54px;
 }
 
-#_bg__resistances_ek1 {
-	top: 0px;
-	left: 0px;
-	width: 140px;
-	height: 54px;
-	background:#;
-}
-
-#resistances_ek2 {
+.resistances_title {
 	top: 1px;
 	left: 4px;
 	width: 94.4px;
 	height: 25.4px;
 	overflow: hidden;
-	font-family: Pixel Script;
+	font-family: PixelScript;
 	font-size: 14px;
 	text-align: left;
 	color:#000000;
 }
 
-#text {
-	top: 25px;
-	left: 4px;
-	width: 116.1px;
-	height: 31.1px;
+.stats_text {
+	top: 25px; left: 4px;
+	width: 116.1px;	height: 31.1px;
 	overflow: hidden;
-	font-family: Mintsoda - Lime Green 16x16;
+	font-family: Mintsoda;
 	font-size: 11px;
 	text-align: left;
 	color:#000000;
 }
 
-#vulnerabilities {
-	top: 0px;
-	left: 140px;
-	width: 140px;
-	height: 68px;
+.vulnerabilities_box {
+	top: 0px; left: 140px;
+	width: 140px; height: 68px;
 }
 
-#_bg__vulnerabilities_ek1 {
-	top: 0px;
-	left: 0px;
-	width: 140px;
-	height: 68px;
-	background:#;
-}
-
-#vulnerabilities_ek2 {
-	top: 1px;
-	left: 4px;
-	width: 113.4px;
-	height: 25.4px;
+.vulnerabilities_title {
+	top: 1px; left: 4px;
+	width: 113.4px;	height: 25.4px;
 	overflow: hidden;
-	font-family: Pixel Script;
+	font-family: PixelScript;
 	font-size: 14px;
 	text-align: left;
 	color:#000000;
 }
 
-#text_ek1 {
+.text_ek1 {
 	top: 25px;
 	left: 4px;
 	width: 105.1px;
 	height: 45.1px;
 	overflow: hidden;
-	font-family: Mintsoda - Lime Green 16x16;
+	font-family: Mintsoda;
 	font-size: 11px;
 	text-align: left;
 	color:#000000;
 }
 
-#body_text {
+.body_text {
 	top: 83px;
 	left: 13.5px;
 	width: 272.1px;
@@ -399,22 +331,7 @@ opacity: 1 !important;
 	color:#000000;
 }
 
-#l_page {
-	top: 55px;
-	left: 64px;
-	width: 310px;
-	height: 388px;
-}
-
-#_bg__l_page_ek1 {
-	top: 0px;
-	left: 0px;
-	width: 310px;
-	height: 388px;
-	background:#;
-}
-
-#title {
+.title {
 	top: 16px;
 	left: 20px;
 	width: 65px;
@@ -427,7 +344,7 @@ opacity: 1 !important;
 	color:#000000;
 }
 
-#category {
+.category {
 	top: 16px;
 	left: 202px;
 	width: 99px;
@@ -440,177 +357,89 @@ opacity: 1 !important;
 	color:#000000;
 }
 
-#art {
-	top: 81px;
-	left: 58px;
-	width: 169px;
-	max-height: 150px;
-text-align: center;
+.art {
+	top: 81px; left: 58px;
+	max-width: 169px; max-height: 150px;
+	text-align: center;
 }
 
-#scientific_name {
-	top: 177px;
-	left: 114px;
-	width: 83.4px;
-	height: 25.4px;
+.scientific_name {
+	top: 177px;	left: 114px;
+	width: 83.4px; height: 25.4px;
 	overflow: hidden;
-	font-family: Pixel Script;
+	font-family: PixelScript;
 	font-size: 14px;
 	text-align: center;
 }
 
-#habitats {
-	top: 203px;
-	left: 48px;
-	width: 214px;
-	height: 38px;
+.habitats {
+	top: 203px;	left: 48px;
+	width: 214px; height: 38px;
 }
 
-#_bg__buttons___habitats_ek1 {
-	top: 0px;
-	left: 0px;
-	width: 214px;
-	height: 38px;
-	background:#;
-}
-
-
-#_116_3 {
+._116_3 {
 	top: 3px;
 	left: 91px;
 	width: 32px;
 	height: 32px;
 }
 
-#l___descriptions {
-	top: 241px;
-	left: 20px;
-	width: 275px;
-	height: 131px;
+.Ldescriptions {
+	top: 241px;	left: 20px;
+	width: 275px; height: 131px;
 }
 
-#_bg__l___descriptions_ek1 {
-	top: 0px;
-	left: 0px;
-	width: 275px;
-	height: 131px;
-	background:#;
-}
-
-#sightings {
-	top: 2px;
-	left: 10px;
-	width: 74.4px;
-	height: 25.4px;
+.sightings {
+	top: 2px; left: 10px;
+	width: 74.4px; height: 25.4px;
 	overflow: hidden;
-	font-family: Pixel Script;
+	font-family: PixelScript;
 	font-size: 14px;
 	text-align: left;
 }
 
-#frame_6 {
+.sightings_box {
 	top: 24px;
 	left: 10px;
 	width: 255px;
 	height: 44px;
 }
 
-#_bg__frame_6_ek1 {
-	top: 0px;
-	left: 0px;
-	width: 255px;
-	height: 44px;
-	background:#;
-}
-
-#places {
-	top: 1px;
-	left: 9px;
-	width: 132.1px;
-	height: 45.1px;
+.places { /*inside sightings box*/
+	top: 1px; left: 9px;
+	width: 132.1px;	height: 45.1px;
 	overflow: hidden;
-	font-family: Mintsoda - Lime Green 16x16;
+	font-family: Mintsoda;
 	font-size: 11px;
 	text-align: left;
 }
 
-#places_2 {
-	top: 1px;
-	left: 130px;
-	width: 132.1px;
-	height: 31.1px;
+.places_2 { /*inside sightings box*/
+	top: 1px; left: 130px;
+	width: 132.1px;	height: 31.1px;
 	overflow: hidden;
-	font-family: Mintsoda - Lime Green 16x16;
+	font-family: Mintsoda;
 	font-size: 11px;
 	text-align: left;
 }
 
-#resources {
-	top: 69px;
-	left: 10px;
-	width: 84.4px;
-	height: 25.4px;
+.resources {
+	top: 69px; left: 10px;
+	width: 84.4px; height: 25.4px;
 	overflow: hidden;
-	font-family: Pixel Script;
+	font-family: PixelScript;
 	font-size: 14px;
 	text-align: left;
 }
 
-#icons___resources {
-	top: 91px;
-	left: 10px;
-	width: 255px;
-	height: 38px;
+.resources_box {
+	top: 91px; left: 10px;
+	width: 255px; height: 38px;
 }
 
-#_bg__icons___resources_ek1 {
-	top: 0px;
-	left: 0px;
-	width: 255px;
-	height: 38px;
-	background:#;
-}
-
-#circle {
-	top: 3px;
-	left: 9px;
-	width: 32px;
-	height: 32px;
-}
-
-#circle_ek1 {
-	top: 3px;
-	left: 50px;
-	width: 32px;
-	height: 32px;
-}
-
-#circle_ek2 {
-	top: 3px;
-	left: 91px;
-	width: 32px;
-	height: 32px;
-}
-
-#circle_ek3 {
-	top: 3px;
-	left: 132px;
-	width: 32px;
-	height: 32px;
-}
-
-#circle_ek4 {
-	top: 3px;
-	left: 173px;
-	width: 32px;
-	height: 32px;
-}
-
-#circle_ek5 {
-	top: 3px;
-	left: 214px;
-	width: 32px;
-	height: 32px;
+.resources_icon {
+	top: 3px; left: 9px;
+	width: 32px; height: 32px;
 }
 
 .zoom {
