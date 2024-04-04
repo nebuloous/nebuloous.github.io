@@ -12,13 +12,13 @@
 
 <!-- orange / personal logs -->
 <!-- !!!!!! TO DO: fix links -->
-<button class="tab_o_A" href="index.html" src="img/tab/oA.png" 
+<button class="tab_o_A" href="logs/2.html" src="img/tab/oA.png" 
     alt="An orange bookmark with an icon of a pencil">
 
-<button class="tab_o_L" href="index.html" src="img/tab/oL.png" 
+<button class="tab_o_L" href="logs/2.html" src="img/tab/oL.png" 
     alt="An orange bookmark with an icon of a pencil">
 
-<button class="tab_o_R" href="index.html" src="img/tab/oR.png" 
+<button class="tab_o_R" href="logs/2.html" src="img/tab/oR.png" 
     alt="An orange bookmark with an icon of a pencil">
 
 <!-- yellow / constructs -->

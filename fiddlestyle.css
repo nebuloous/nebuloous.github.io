@@ -104,7 +104,8 @@ button:hover {
   cursor: none;
   opacity: .5;
 }
-  
+
+/* LAYOUT */
 .content-container {
     display: block; 
     position: relative; 
@@ -112,14 +113,12 @@ button:hover {
     overflow: hidden; 
     margin-left: auto; margin-right: auto;
     }
-
 .page {
 	top: 0px;
 	left: 0px;
 	width: 100vw;
 	height: 72.91666666666667vw;
 }
-
 .desk {
 	top: 0px;
 	left: 0px;
@@ -127,36 +126,34 @@ button:hover {
 	height: 72.91666666666667vw;
     }
 .book {
-	top: 35px;
+	top: 4.557291666666667vw;
 	left: -4.557291666666667vw;
 	width: 112.23958333333333vw;
     }
-
 .Lpage {
-	top: 55px; left: 64px;
-	width: 310px; height: 388px;
+	top: 7.161458333333333vw; left: 8.333333333333334vw;
+	width: 40.364583333333336vw; height: 50.520833333333336vw;
 }
 .Rpage {
-	top: 55px; left: 394px;
-	width: 310px; height: 388px;
+	top: 7.161458333333333vw; left: 51.302083333333336vw;
+	width: 40.364583333333336vw; height: 50.520833333333336vw;
 }
 
+/* SPECIAL TEXT */
 .pgnmbr {
-	top: 351px;	left: 274px;
-	width: 36px; height: 29px;
+	top: 45.703125vw; 
+	left: 35.677083333333336vw;
 	overflow: hidden;
 	font-family: GothicPixel;
 	font-size: 20px;
 	text-align: right;
-	letter-spacing: 1px;
 	color:#000000;
     }
-
 .comment {
-	top: 248px;
-	left: 63px;
-	width: 219px;
-	height: 58.1px;
+	top: 32.291666666666664vw;
+	left: 8.203125vw;
+	width: 28.515625vw;
+	height: 8vw;
 	overflow: hidden;
 	
 	-ms-transform:rotate(-6.67deg);
@@ -168,11 +165,33 @@ button:hover {
 	letter-spacing: 0.55px;
 }
 
-.field_notes {
-	top: 16px;
-	left: 12px;
-	width: 177px;
-	height: 30px;
+/* TEXT */
+.title {
+	top: 2.0833333333333335vw;
+	left: 2.6041666666666665vw;
+	height: 3.90625vw;
+	overflow: hidden;
+	font-family: Old English Gothic Pixel;
+	font-size: 20px;
+	text-align: left;
+	letter-spacing: 1px;
+	color:#000000;
+}
+.category {
+	top: 2.0833333333333335vw;
+	left: 26.302083333333332vw;
+	height: 3.90625vw;
+	overflow: hidden;
+	font-family: Old English Gothic Pixel;
+	font-size: 20px;
+	text-align: right;
+	letter-spacing: 1px;
+	color:#000000;
+}
+.Rtitle {
+	top: 2.0833333333333335vw;
+	left: 1.5625vw;
+	height: 3.90625vw;
 	overflow: hidden;
 	font-family: GothicPixel;
 	font-size: 20px;
@@ -180,6 +199,7 @@ button:hover {
 	letter-spacing: 1px;
 	color:#000000;
 }
+
 
 .Rcontent {
 	top: 41px;
@@ -260,32 +280,6 @@ button:hover {
 	font-family: Mintsoda - Lime Green 16x16;
 	font-size: 11px;
 	text-align: left;
-	color:#000000;
-}
-
-.title {
-	top: 16px;
-	left: 20px;
-	width: 65px;
-	height: 30px;
-	overflow: hidden;
-	font-family: Old English Gothic Pixel;
-	font-size: 20px;
-	text-align: left;
-	letter-spacing: 1px;
-	color:#000000;
-}
-
-.category {
-	top: 16px;
-	left: 202px;
-	width: 99px;
-	height: 30px;
-	overflow: hidden;
-	font-family: Old English Gothic Pixel;
-	font-size: 20px;
-	text-align: right;
-	letter-spacing: 1px;
 	color:#000000;
 }
 
