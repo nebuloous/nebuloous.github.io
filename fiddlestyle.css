@@ -52,6 +52,7 @@ div {
     display: none;
     }
 
+/*  NOT IN USE CURRENTLY
 ul {
 list-style: none;
 margin: 0;
@@ -72,17 +73,28 @@ opacity: .5;
 ul li.active{
 opacity: 1 !important;
 }
+*/
+
+button {
+	border: none;
+	border-radius: 1px;
+	cursor: pointer;
+}
+button:hover {
+	border: solid;
+	border-color: white;
+}
 
 .next {
-    top: 420px;	left: 725px;
-	width: 32px; height: 32px;
+    top: 54.6875vw;	left: 94.40104166666667vw;
+	width: 4.166666666666667vw; height: 4.166666666666667vw;
     border: 0;
     outline: none;
     cursor: pointer;
     }
 .prev {
-    top: 420px;	left: 11px;
-	width: 32px; height: 32px;
+    top: 54.6875vw;	left: 1.4322916666666667vw;
+	width: 4.166666666666667vw; height: 4.166666666666667vw;
     border: 0;
     outline: none;
     cursor: pointer;
@@ -96,7 +108,7 @@ opacity: 1 !important;
 .content-container {
     display: block; 
     position: relative; 
-    width: 768px; height: 560px; 
+    width: 100vw; height: 72.91666666666667vw; 
     overflow: hidden; 
     margin-left: auto; margin-right: auto;
     }
@@ -104,20 +116,20 @@ opacity: 1 !important;
 .page {
 	top: 0px;
 	left: 0px;
-	width: 768px;
-	height: 560px;
+	width: 100vw;
+	height: 72.91666666666667vw;
 }
 
 .desk {
 	top: 0px;
 	left: 0px;
 	width: 100vw;
+	height: 72.91666666666667vw;
     }
 .book {
 	top: 35px;
-	left: -64px;
-	width: 862px;
-	height: 454px;
+	left: -4.557291666666667vw;
+	width: 112.23958333333333vw;
     }
 
 .Lpage {

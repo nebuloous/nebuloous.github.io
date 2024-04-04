@@ -1,1 +1,72 @@
+<!-- TABS -->
 
+<!-- red / index / contents -->
+<button class="tab_r_A" href="index.html" src="img/tab/rA.png" 
+    alt="A red bookmark with an icon of a five horizontal lines">
+
+<button class="tab_r_L" href="index.html" src="img/tab/rL.png" 
+    alt="A red bookmark with an icon of a five horizontal lines">
+
+<button class="tab_r_R" href="index.html" src="img/tab/rR.png" 
+    alt="A red bookmark with an icon of a five horizontal lines">
+
+<!-- orange / personal logs -->
+<!-- !!!!!! TO DO: fix links -->
+<button class="tab_o_A" href="index.html" src="img/tab/oA.png" 
+    alt="An orange bookmark with an icon of a pencil">
+
+<button class="tab_o_L" href="index.html" src="img/tab/oL.png" 
+    alt="An orange bookmark with an icon of a pencil">
+
+<button class="tab_o_R" href="index.html" src="img/tab/oR.png" 
+    alt="An orange bookmark with an icon of a pencil">
+
+<!-- yellow / constructs -->
+<button class="tab_y_A" href="index.html" src="img/tab/yA.png" 
+    alt="A yellow bookmark with an icon of a pickaxe and a hammer">
+
+<button class="tab_y_L" href="index.html" src="img/tab/yL.png" 
+    alt="A yellow bookmark with an icon of a pickaxe and a hammer">
+
+<button class="tab_y_R" href="index.html" src="img/tab/yR.png" 
+    alt="A yellow bookmark with an icon of a pickaxe and a hammer">
+
+<!-- green / beasts -->
+<button class="tab_g_A" href="index.html" src="img/tab/gA.png" 
+    alt="A green bookmark with an icon of a paw print">
+
+<button class="tab_g_L" href="index.html" src="img/tab/gL.png" 
+    alt="A green bookmark with an icon of a paw print">
+
+<button class="tab_g_R" href="index.html" src="img/tab/gR.png" 
+    alt="A green bookmark with an icon of a paw print">
+
+<!-- blue / folks -->
+<button class="tab_b_A" href="index.html" src="img/tab/bA.png" 
+    alt="A blue bookmark with an icon of a smiling humanoid">
+
+<button class="tab_b_L" href="index.html" src="img/tab/bL.png" 
+    alt="A blue bookmark with an icon of a smiling humanoid">
+
+<button class="tab_b_R" href="index.html" src="img/tab/bR.png" 
+    alt="A blue bookmark with an icon of a smiling humanoid">
+        
+<!-- purple / anomalies -->
+<button class="tab_pu_A" href="index.html" src="img/tab/puA.png" 
+    alt="A purple bookmark with an icon of an open eye">
+
+<button class="tab_pu_L" href="index.html" src="img/tab/puL.png" 
+    alt="A purple bookmark with an icon of an open eye">
+
+<button class="tab_pu_R" href="index.html" src="img/tab/puR.png" 
+    alt="A purple bookmark with an icon of an open eye">
+
+<!-- pink -->
+<button class="tab_pi_A" href="index.html" src="img/tab/piA.png" 
+    alt="A pink bookmark with an icon of a star">
+
+<button class="tab_pi_L" href="index.html" src="img/tab/piL.png" 
+    alt="A pink bookmark with an icon of a star">
+
+<button class="tab_pi_R" href="index.html" src="img/tab/piR.png" 
+    alt="A pink bookmark with an icon of a star">

@@ -1,1 +1,6 @@
+<!-- PREV BUTTON -->
+<button class="prev" src="img/prev.png" alt="An arrow pointing to the left">
+
+<!-- NEXT BUTTON -->
+<button class="next" src="img/next.png" alt="An arrow pointing to the right">
 
