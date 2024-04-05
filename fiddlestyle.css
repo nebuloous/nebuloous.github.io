@@ -91,6 +91,7 @@ button:hover {
     border: 0;
     outline: none;
     cursor: pointer;
+	background-image: url("img/next.png");
     }
 .prev {
     top: 54.6875vw;	left: 1.4322916666666667vw;
@@ -98,6 +99,7 @@ button:hover {
     border: 0;
     outline: none;
     cursor: pointer;
+	background-image: url("img/prev.png");
     }
 .next.disable,
 .prev.disable{
