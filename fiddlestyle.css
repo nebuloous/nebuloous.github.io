@@ -127,8 +127,8 @@ button:hover {
     }
 .book {
 	top: 4.557291666666667vw;
-	left: -4.557291666666667vw;
-	width: 112.23958333333333vw;
+	left: 5.598958333333333vw;
+	width: 88.93229166666667vw;
     }
 .Lpage {
 	top: 7.161458333333333vw; left: 8.333333333333334vw;
@@ -163,6 +163,15 @@ button:hover {
 	transform:rotate(-6.67deg);
 	text-align: center;
 	letter-spacing: 0.55px;
+}
+.intro {
+	top: 2.0833333333333335vw;
+	left: 2.6041666666666665vw;
+	width: 95.57291666666667vw;
+	height: 3.90625vw;
+	text-align: center;
+	letter-spacing: 1px;
+	color:#000000;
 }
 
 /* TEXT */
