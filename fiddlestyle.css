@@ -140,6 +140,10 @@ button:hover {
 	top: 7.161458333333333vw; left: 51.302083333333336vw;
 	width: 40.364583333333336vw; height: 50.520833333333336vw;
 }
+.frame {
+	text-align: left;
+	padding: 5px;
+}
 
 /* SPECIAL TEXT */
 .pgnmbr {
