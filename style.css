@@ -1,0 +1,526 @@
+.page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .page .overlap-wrapper {
+    background-color: #ffffff;
+    overflow-x: hidden;
+    width: 768px;
+    height: 560px;
+  }
+  
+  .page .overlap {
+    position: relative;
+    width: 862px;
+    height: 560px;
+    left: -64px;
+  }
+  
+  .page .desk {
+    position: absolute;
+    width: 768px;
+    height: 560px;
+    top: 0;
+    left: 64px;
+    object-fit: cover;
+  }
+  
+  .page .book {
+    position: absolute;
+    width: 862px;
+    height: 454px;
+    top: 35px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .page .nav {
+    top: 420px;
+    left: 789px;
+    background-image: url(./img/89.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    width: 32px;
+    height: 32px;
+  }
+  
+  .page .element-wrapper {
+    top: 418px;
+    left: 75px;
+    position: absolute;
+    width: 32px;
+    height: 32px;
+  }
+  
+  .page .element {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 2px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .NEW .tab {
+    top: 306px;
+    left: 770px;
+    position: absolute;
+    width: 27px;
+    height: 40px;
+  }
+  
+  .NEW .tab-pink-r {
+    height: 40px;
+    background-color: #c38ce6;
+    border-radius: 4px 0px 0px 4px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-color: #33323d;
+    transform: rotate(180deg);
+  }
+  
+  .NEW .tab-pink-r-wrapper {
+    top: 349px;
+    left: 770px;
+    position: absolute;
+    width: 27px;
+    height: 40px;
+  }
+  
+  .NEW .div {
+    background-color: #f58eeb;
+    height: 40px;
+    border-radius: 4px 0px 0px 4px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-color: #33323d;
+    transform: rotate(180deg);
+  }
+  
+  .NEW .div-wrapper {
+    top: 263px;
+    left: 770px;
+    position: absolute;
+    width: 27px;
+    height: 40px;
+  }
+  
+  .NEW .tab-pink-r-2 {
+    background-color: #8cc6e6;
+    height: 40px;
+    border-radius: 4px 0px 0px 4px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-color: #33323d;
+    transform: rotate(180deg);
+  }
+  
+  .NEW .tab-2 {
+    top: 220px;
+    left: 98px;
+    transform: rotate(180deg);
+    position: absolute;
+    width: 27px;
+    height: 40px;
+  }
+  
+  .NEW .tab-pink-r-3 {
+    background-color: #97cc77;
+    height: 40px;
+    border-radius: 4px 0px 0px 4px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-color: #33323d;
+    transform: rotate(180deg);
+  }
+  
+  .NEW .overlap-group-wrapper {
+    top: 177px;
+    left: 98px;
+    transform: rotate(180deg);
+    position: absolute;
+    width: 27px;
+    height: 40px;
+  }
+  
+  .NEW .overlap-group {
+    position: relative;
+    height: 40px;
+    border-radius: 4px 0px 0px 4px;
+  }
+  
+  .NEW .tab-pink-r-4 {
+    position: absolute;
+    width: 27px;
+    top: 0;
+    left: 0;
+    background-color: #ff9e2d;
+    height: 40px;
+    border-radius: 4px 0px 0px 4px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-color: #33323d;
+    transform: rotate(180deg);
+  }
+  
+  .NEW .text-wrapper {
+    position: absolute;
+    width: 24px;
+    height: 35px;
+    top: 0;
+    left: 0;
+    transform: rotate(180deg);
+    font-family: "Old English Gothic Pixel-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 1.8px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .NEW .tab-3 {
+    top: 134px;
+    left: 98px;
+    transform: rotate(180deg);
+    position: absolute;
+    width: 27px;
+    height: 40px;
+  }
+  
+  .NEW .overlap-2 {
+    position: relative;
+    height: 44px;
+    top: -4px;
+  }
+  
+  .NEW .tab-pink-r-5 {
+    position: absolute;
+    width: 27px;
+    top: 4px;
+    left: 0;
+    background-color: #ff753a;
+    height: 40px;
+    border-radius: 4px 0px 0px 4px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-color: #33323d;
+    transform: rotate(180deg);
+  }
+  
+  .NEW .text-wrapper-2 {
+    position: absolute;
+    height: 43px;
+    top: 0;
+    left: 0;
+    transform: rotate(180deg);
+    font-family: "Old English Gothic Pixel-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 1.8px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .NEW .tab-4 {
+    top: 91px;
+    left: 98px;
+    transform: rotate(180deg);
+    position: absolute;
+    width: 27px;
+    height: 40px;
+  }
+  
+  .NEW .overlap-3 {
+    position: relative;
+    height: 43px;
+    top: -2px;
+  }
+  
+  .NEW .tab-blank {
+    top: 2px;
+    left: 0;
+    background-color: #ff5e5e;
+    border-radius: 4px 0px 0px 4px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-color: #33323d;
+    transform: rotate(180deg);
+    position: absolute;
+    width: 27px;
+    height: 40px;
+  }
+  
+  .NEW .text-wrapper-3 {
+    position: absolute;
+    height: 43px;
+    top: 0;
+    left: 3px;
+    transform: rotate(180deg);
+    font-family: "Old English Gothic Pixel-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 1.8px;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .NEW .r-page {
+    position: absolute;
+    width: 310px;
+    height: 388px;
+    top: 55px;
+    left: 458px;
+  }
+  
+  .NEW .pg-nmbr {
+    position: absolute;
+    width: 19px;
+    top: 349px;
+    left: 270px;
+    font-family: var(--page-number-font-family);
+    font-weight: var(--page-number-font-weight);
+    color: #000000;
+    font-size: var(--page-number-font-size);
+    text-align: right;
+    letter-spacing: var(--page-number-letter-spacing);
+    line-height: var(--page-number-line-height);
+    white-space: nowrap;
+    font-style: var(--page-number-font-style);
+  }
+  
+  .NEW .comment-aaron {
+    width: 225px;
+    top: 246px;
+    left: 61px;
+    transform: rotate(-3.12deg);
+    font-family: "Mintsoda - Lime Green 16x16-Regular", Helvetica;
+    position: absolute;
+    font-weight: 400;
+    color: #000000;
+    font-size: 11px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .NEW .comment-ipo {
+    width: 208px;
+    top: 314px;
+    left: 28px;
+    transform: rotate(0.26deg);
+    font-family: var(--notes-ipios-font-family);
+    position: absolute;
+    font-weight: var(--notes-ipios-font-weight);
+    color: #000000;
+    font-size: var(--notes-ipios-font-size);
+    text-align: center;
+    letter-spacing: var(--notes-ipios-letter-spacing);
+    line-height: var(--notes-ipios-line-height);
+    font-style: var(--notes-ipios-font-style);
+  }
+  
+  .NEW .rcontent {
+    display: flex;
+    flex-direction: column;
+    width: 282px;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 0px 5px 5px;
+    position: absolute;
+    top: 41px;
+    left: 11px;
+  }
+  
+  .NEW .statsbox {
+    display: flex;
+    width: 274px;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .NEW .resistbox {
+    display: flex;
+    flex-direction: column;
+    width: 140px;
+    align-items: flex-start;
+    gap: 1px;
+    padding: 0px 4px;
+    position: relative;
+  }
+  
+  .NEW .subtitle {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--bestiary-subtitle-font-family);
+    font-weight: var(--bestiary-subtitle-font-weight);
+    color: #000000;
+    font-size: var(--bestiary-subtitle-font-size);
+    letter-spacing: var(--bestiary-subtitle-letter-spacing);
+    line-height: var(--bestiary-subtitle-line-height);
+    font-style: var(--bestiary-subtitle-font-style);
+  }
+  
+  .NEW .div-2 {
+    width: 107px;
+    position: relative;
+    height: 20px;
+  }
+  
+  .NEW .overlap-group-2 {
+    position: relative;
+    height: 20px;
+  }
+  
+  .NEW .text {
+    width: 99px;
+    position: absolute;
+    top: 1px;
+    left: 8px;
+    font-family: "Mintsoda - Lime Green 16x16-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .NEW .rectangle {
+    position: absolute;
+    width: 14px;
+    height: 13px;
+    top: 3px;
+    left: 3px;
+    background-color: #daa475;
+  }
+  
+  .NEW .img {
+    position: absolute;
+    width: 26px;
+    height: 20px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .NEW .damage {
+    width: 116px;
+    position: relative;
+    height: 20px;
+  }
+  
+  .NEW .vulbox {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1px;
+    padding: 0px 4px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .NEW .subtitle-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Pixel Script-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .NEW .overlap-4 {
+    position: relative;
+    width: 80px;
+    height: 20px;
+  }
+  
+  .NEW .text-2 {
+    width: 72px;
+    position: absolute;
+    top: 1px;
+    left: 8px;
+    font-family: "Mintsoda - Lime Green 16x16-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 11px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .NEW .notes-text {
+    position: relative;
+    width: 260px;
+    font-family: var(--bestiary-body-text-font-family);
+    font-weight: var(--bestiary-body-text-font-weight);
+    color: #000000;
+    font-size: var(--bestiary-body-text-font-size);
+    letter-spacing: var(--bestiary-body-text-letter-spacing);
+    line-height: var(--bestiary-body-text-line-height);
+    font-style: var(--bestiary-body-text-font-style);
+  }
+  
+  .NEW .text-wrapper-4 {
+    position: absolute;
+    width: 160px;
+    top: 15px;
+    left: 12px;
+    font-family: var(--bestiary-title-font-family);
+    font-weight: var(--bestiary-title-font-weight);
+    color: #000000;
+    font-size: var(--bestiary-title-font-size);
+    letter-spacing: var(--bestiary-title-letter-spacing);
+    line-height: var(--bestiary-title-line-height);
+    white-space: nowrap;
+    font-style: var(--bestiary-title-font-style);
+  }
+  
+  .NEW .l-page {
+    position: absolute;
+    width: 310px;
+    height: 388px;
+    top: 55px;
+    left: 128px;
+  }
