@@ -21,12 +21,12 @@ body {
   }
 h1 {
     font-family: GothicPixel;
-    font-size: 20px;
+    font-size: 2.6041666666666665vw;
     text-align: left;
   }
 h2 { /*used for category*/
     font-family: GothicPixel;
-    font-size: 20px;
+    font-size: 2.6041666666666665vw;
     text-align: right;
   }
 h3 { /*used for pixelscript stuff*/
@@ -151,7 +151,7 @@ button:hover {
 	left: 35.677083333333336vw;
 	overflow: hidden;
 	font-family: GothicPixel;
-	font-size: 20px;
+	font-size: 2.6041666666666665vw;
 	text-align: right;
 	color:#000000;
     }
@@ -187,7 +187,7 @@ button:hover {
 	height: 3.90625vw;
 	overflow: hidden;
 	font-family: Old English Gothic Pixel;
-	font-size: 20px;
+	font-size: 2.6041666666666665vw; /*20px*/
 	text-align: left;
 	letter-spacing: 1px;
 	color:#000000;
@@ -198,7 +198,7 @@ button:hover {
 	height: 3.90625vw;
 	overflow: hidden;
 	font-family: Old English Gothic Pixel;
-	font-size: 20px;
+	font-size: 2.6041666666666665vw; /*20px*/
 	text-align: right;
 	letter-spacing: 1px;
 	color:#000000;
@@ -209,39 +209,38 @@ button:hover {
 	height: 3.90625vw;
 	overflow: hidden;
 	font-family: GothicPixel;
-	font-size: 20px;
+	font-size: 2.6041666666666665vw; /*20px*/
 	text-align: left;
 	letter-spacing: 1px;
 	color:#000000;
 }
 
-
 .Rcontent {
-	top: 41px;
-	left: 11px;
-	width: 282px;
-	height: 228px;
+	top: 5.338541666666667vw;
+	left: 1.4322916666666667vw;
+	width: 36.71875vw;
+	height: 29.6875vw;
 }
 
 .stats {
-	top: 5px;
-	left: 6.5px;
-	width: 274px;
-	height: 68px;
+	top: 0.6510416666666666vw;
+	left: 0.8463541666666666vw;
+	width: 35.677083333333336vw;
+	height: 8.854166666666666vw;
 }
 
 .resistances_box {
 	top: 0px;
 	left: 0px;
-	width: 140px;
-	height: 54px;
+	width: 18.229166666666668vw;
+	height: 7.03125vw;
 }
 
 .resistances_title {
-	top: 1px;
-	left: 4px;
-	width: 94.4px;
-	height: 25.4px;
+	top: 0.13020833333333334vw;
+	left: 0.5208333333333334vw;
+	width: 12.29vw;
+	height: 3.307vw;
 	overflow: hidden;
 	font-family: PixelScript;
 	font-size: 14px;
@@ -250,8 +249,8 @@ button:hover {
 }
 
 .stats_text {
-	top: 25px; left: 4px;
-	width: 116.1px;	height: 31.1px;
+	top: 3.2552083333333335vw; left: 0.5208333333333334vw;
+	width: 15.1171875vw; height: 4.049479166666667vw;
 	overflow: hidden;
 	font-family: Mintsoda;
 	font-size: 11px;
@@ -260,13 +259,13 @@ button:hover {
 }
 
 .vulnerabilities_box {
-	top: 0px; left: 140px;
-	width: 140px; height: 68px;
+	top: 0px; left: 18.229166666666668vw;
+	width: 18.229166666666668vw; height: 8.854166666666666vw;
 }
 
 .vulnerabilities_title {
-	top: 1px; left: 4px;
-	width: 113.4px;	height: 25.4px;
+	top: 0.13020833333333334vw; left: 0.5208333333333334vw;
+	width: 14.765625vw;	height: 3.3072916666666665vw;
 	overflow: hidden;
 	font-family: PixelScript;
 	font-size: 14px;
@@ -275,10 +274,10 @@ button:hover {
 }
 
 .text_ek1 {
-	top: 25px;
-	left: 4px;
-	width: 105.1px;
-	height: 45.1px;
+	top: 3.2552083333333335vw;
+	left: 0.5208333333333334vw;
+	width: 13.684895833333334vw;
+	height: 5.872395833333333vw;
 	overflow: hidden;
 	font-family: Mintsoda;
 	font-size: 11px;
@@ -287,26 +286,31 @@ button:hover {
 }
 
 .body_text {
-	top: 83px;
-	left: 13.5px;
-	width: 272.1px;
-	height: 143.1px;
+	top: 10.807291666666666vw;
+	left: 1.7578125vw;
+	width: 35.546875vw;
+	height: 18.75vw;
 	overflow: hidden;
-	font-family: Mintsoda - Lime Green 16x16;
+	font-family: Mintsoda;
 	font-size: 11px;
 	text-align: left;
 	color:#000000;
 }
 
 .art {
-	top: 81px; left: 58px;
-	max-width: 169px; max-height: 150px;
+	position: fixed;
+	bottom: 89.5vw;
+	left: 7.552083333333333vw;
+	max-width: 22.005208333333332vw; 
+	max-height: 19.53125vw;
 	text-align: center;
 }
 
 .scientific_name {
-	top: 177px;	left: 114px;
-	width: 83.4px; height: 25.4px;
+	top: 23.046875vw;
+	left: 14.84375vw;
+	width: 10.859375vw; 
+	height: 3.30729166vw;
 	overflow: hidden;
 	font-family: PixelScript;
 	font-size: 14px;
@@ -314,8 +318,10 @@ button:hover {
 }
 
 .habitats {
-	top: 203px;	left: 48px;
-	width: 214px; height: 38px;
+	top: 26.432291666666668vw;	
+	left: 6.25vw;
+	width: 27.864583333333332vw; 
+	height: 4.947916666666667vw;
 }
 
 ._116_3 {
@@ -326,13 +332,17 @@ button:hover {
 }
 
 .Ldescriptions {
-	top: 241px;	left: 20px;
-	width: 275px; height: 131px;
+	top: 31.380208333333332vw;	
+	left: 2.6041666666666665vw;
+	width: 35.807291666666664vw; 
+	height: 17.057291666666668vw;
 }
 
 .sightings {
-	top: 2px; left: 10px;
-	width: 74.4px; height: 25.4px;
+	top: 0.2604166666666667vw; 
+	left: 1.3020833333333333vw;
+	width: 9.6875vw; 
+	height: 3.3072916666666665vw;
 	overflow: hidden;
 	font-family: PixelScript;
 	font-size: 14px;
@@ -340,24 +350,27 @@ button:hover {
 }
 
 .sightings_box {
-	top: 24px;
-	left: 10px;
-	width: 255px;
-	height: 44px;
+	top: 3.125vw;
+	left: 1.3020833333333333vw;
+	width: 33.203125vw;
+	height: 5.729166666666667vw;
 }
 
 .places { /*inside sightings box*/
-	top: 1px; left: 9px;
-	width: 132.1px;	height: 45.1px;
-	overflow: hidden;
+	top: 0.13020833333333334vw; 
+	left: 1.171875vw;
+	width: 17.200520833333332vw;	
+	height: 5.872395833333333vw;
 	font-family: Mintsoda;
 	font-size: 11px;
 	text-align: left;
 }
 
 .places_2 { /*inside sightings box*/
-	top: 1px; left: 130px;
-	width: 132.1px;	height: 31.1px;
+	top: 0.13020833333333334vw; 
+	left: 16.927083333333332vw;
+	width: 17.200520833333332vw;	
+	height: 4.049479166666667vw;
 	overflow: hidden;
 	font-family: Mintsoda;
 	font-size: 11px;
@@ -365,8 +378,10 @@ button:hover {
 }
 
 .resources {
-	top: 69px; left: 10px;
-	width: 84.4px; height: 25.4px;
+	top: 8.984375vw; 
+	left: 1.3020833333333333vw;
+	width: 10.989583333333334vw; 
+	height: 3.3072916666666665vw;
 	overflow: hidden;
 	font-family: PixelScript;
 	font-size: 14px;
@@ -374,7 +389,7 @@ button:hover {
 }
 
 .resources_box {
-	top: 91px; left: 10px;
+	top: 91px; left: 1.3020833333333333vw;
 	width: 255px; height: 38px;
 }
 
