@@ -6,21 +6,21 @@
     width: 100%;
   }
   
-  .page .overlap-wrapper {
+.overlap-wrapper {
     background-color: #ffffff;
     overflow-x: hidden;
     width: 768px;
     height: 560px;
   }
   
-  .page .overlap {
+.overlap {
     position: relative;
     width: 862px;
     height: 560px;
     left: -64px;
   }
   
-  .page .desk {
+.desk {
     position: absolute;
     width: 768px;
     height: 560px;
@@ -29,7 +29,7 @@
     object-fit: cover;
   }
   
-  .page .book {
+.book {
     position: absolute;
     width: 862px;
     height: 454px;
@@ -38,7 +38,7 @@
     object-fit: cover;
   }
   
-  .page .nav {
+.nav {
     top: 420px;
     left: 789px;
     background-image: url(./img/89.png);
@@ -49,7 +49,7 @@
     height: 32px;
   }
   
-  .page .element-wrapper {
+.element-wrapper {
     top: 418px;
     left: 75px;
     position: absolute;
@@ -57,7 +57,7 @@
     height: 32px;
   }
   
-  .page .element {
+.element {
     position: absolute;
     width: 32px;
     height: 32px;
@@ -66,7 +66,7 @@
     object-fit: cover;
   }
   
-  .NEW .tab {
+.tab {
     top: 306px;
     left: 770px;
     position: absolute;
