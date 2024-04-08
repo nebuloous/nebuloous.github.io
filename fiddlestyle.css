@@ -407,6 +407,7 @@ button:hover {
 /* +44 px per tab */
 .tab {
 	height: 5.208333333333333vw; /*40px*/
+	width: 4.817708333333333vw; /*37px*/
 	position: absolute;
 }
 .A {
