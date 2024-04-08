@@ -405,109 +405,152 @@ button:hover {
 
 /* TABS */
 /* +44 px per tab */
-.tab_r_A {
-	top: 93px;
-	left: 30px;
+.tab {
+	height: 5.208333333333333vw; /*40px*/
 	position: absolute;
+}
+.A {
+	left: 9.244791666666666vw; /*71px*/
+}
+.L {
+	left: 7.942708333333333vw; /*61px*/
+}
+.R {
+	left: 91.92708333333333vw;
+}
+.red {
+	top: 12.109375vw; /*93px*/
+}
+.orange {
+	top: 17.838541666666668vw;
+}
+.yellow {
+	top: 23.567708333333332vw;
+}
+.green {
+	top: 29.296875vw;
+}
+.blue {
+	top: 35.026041666666664vw;
+}
+.purple {
+	top: 40.755208333333336vw;
+}
+.pink {
+	top: 46.484375vw;
+}
+
+.tab_r_A {
+	top: 12.109375vw; /*93px*/
+	left: 30px; /*71px*/
+	position: absolute;
+	height: 5.208333333333333vw; /*40px*/
 }  
 .tab_r_L {
-	top: 93px;
-	left: 30px;
+	top: 12.109375vw;
+	left: 30px; /*61px*/
 	position: absolute;
+	height: 5.208333333333333vw; /*40px*/
 }  
 .tab_r_R {
-	top: 93px;
-	left: 706px;
+	top: 12.109375vw;
+	left: 91.92708333333333vw;
 	position: absolute;
+	height: 5.208333333333333vw; /*40px*/
 }    
 .tab_o_A {
-	top: 137px;
+	top: 17.838541666666668vw;
 	left: 30px;
 	position: absolute;
+	height: 5.208333333333333vw; /*40px*/
 }  
 .tab_o_L {
-	top: 137px;
+	top: 17.838541666666668vw;
 	left: 30px;
 	position: absolute;
+	height: 5.208333333333333vw; /*40px*/
 }  
 .tab_o_R {
-	top: 137px;
-	left: 706px;
+	top: 17.838541666666668vw;
+	left: 91.92708333333333vw;
 	position: absolute;
+	height: 5.208333333333333vw; /*40px*/
 }  
 .tab_y_A {
-	top: 181px;
+	top: 23.567708333333332vw;
 	left: 30px;
 	position: absolute;
+	height: 5.208333333333333vw; /*40px*/
 }  
 .tab_y_L {
-	top: 181px;
+	top: 23.567708333333332vw;
 	left: 30px;
 	position: absolute;
+	height: 5.208333333333333vw; /*40px*/
 }  
 .tab_y_R {
-	top: 181px;
-	left: 706px;
+	top: 23.567708333333332vw;
+	left: 91.92708333333333vw;
 	position: absolute;
 }  
 .tab_g_A {
-	top: 225px;
+	top: 29.296875vw;
 	left: 30px;
 	position: absolute;
 }  
 .tab_g_L {
-	top: 225px;
+	top: 29.296875vw;
 	left: 30px;
 	position: absolute;
 }  
 .tab_g_R {
-	top: 225px;
-	left: 706px;
+	top: 29.296875vw;
+	left: 91.92708333333333vw;
 	position: absolute;
 }  
 .tab_b_A {
-	top: 269px;
+	top: 35.026041666666664vw;
 	left: 30px;
 	position: absolute;
 }
 .tab_b_L {
-	top: 269px;
+	top: 35.026041666666664vw;
 	left: 30px;
 	position: absolute;
 }
 .tab_b_R {
-	top: 269px;
-	left: 706px;
+	top: 35.026041666666664vw;
+	left: 91.92708333333333vw;
 	position: absolute;
 }
 .tab_pu_A {
-	top: 313px;
+	top: 40.755208333333336vw;
 	left: 30px;
 	position: absolute;
 }  
 .tab_pu_L {
-	top: 313px;
+	top: 40.755208333333336vw;
 	left: 30px;
 	position: absolute;
 }  
 .tab_pu_R {
-	top: 313px;
-	left: 706px;
+	top: 40.755208333333336vw;
+	left: 91.92708333333333vw;
 	position: absolute;
 }    
 .tab_pi_A {
-	top: 357px;
+	top: 46.484375vw;
 	left: 30px;
 	position: absolute;
 }
 .tab_pi_L {
-	top: 357px;
+	top: 46.484375vw;
 	left: 30px;
 	position: absolute;
 }
 .tab_pi_R {
-	top: 357px;
-	left: 706px;
+	top: 46.484375vw;
+	left: 91.92708333333333vw;
 	position: absolute;
 }
 
