@@ -1,0 +1,21 @@
+:root {
+    --page-number-font-family: "Old English Gothic Pixel", Helvetica;
+    --page-number-font-weight: 400;
+    --page-number-font-size: 20px;
+    --page-number-letter-spacing: 1px;
+    --page-number-line-height: normal;
+    --page-number-font-style: normal;
+    --bestiary-title-font-family: "Old English Gothic Pixel", Helvetica;
+    --bestiary-title-font-weight: 400;
+    --bestiary-title-font-size: 20px;
+    --bestiary-title-letter-spacing: 1px;
+    --bestiary-title-line-height: normal;
+    --bestiary-title-font-style: normal;
+    --bestiary-subtitle-font-family: "Pixel Script", Helvetica;
+    --bestiary-subtitle-font-weight: 400;
+    --bestiary-subtitle-font-size: 14px;
+    --bestiary-subtitle-letter-spacing: 0px;
+    --bestiary-subtitle-line-height: normal;
+    --bestiary-subtitle-font-style: normal;
+  }
+  
